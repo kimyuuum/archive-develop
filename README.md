@@ -10,4 +10,12 @@ Tech Interview를 위한 Computer Science 지식 저장소 🌱
   + [Memory](https://github.com/kimyuuum/tech-interview/blob/master/Operating%20System/Memory.md)
   
 </br>
+
+
+## 🤖 Algorithm
+  + [Bubble Sort](https://github.com/kimyuuum/tech-interview/blob/master/Algorithm/Bubble_sort.md)
+  
+  
+  
+</br>
 </br>
