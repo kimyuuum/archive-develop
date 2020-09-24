@@ -27,7 +27,7 @@
 ```cpp
 for(int i=0; i<n; i++){ 
 	for(int j=1; j<n-i; j++){ 
-	*// i개는 이미 뒤에 정렬되어있다.*
+	// i개는 이미 뒤에 정렬되어있다.
 		if(arr[j-1] > arr[j]){
 		 swap(arr[j-1],arr[j]); 
 		} 
@@ -37,7 +37,7 @@ for(int i=0; i<n; i++){
 
 Bubble sort를 이용하면, 이미 정렬 되어있는 상태라도 계속 체크를 하게 된다.
 
-=> sorted flag를 사용하면 개선 가능하다.
+=> `sorted flag를 사용하면 개선 가능하다.`
 
 </br>
 
