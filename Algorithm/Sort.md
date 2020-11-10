@@ -24,8 +24,6 @@
 2. 이전 idx에 있는 원소가 더 크면 둘의 위치를 변경한다.
 3. 현재 idx가 더 크면, 다음 idx로 넘어가서 두개를 다시 비교한다.
 
-------
-
 ```cpp
 for(int i=0; i<n; i++){ 
 	for(int j=1; j<n-i; j++){ 
@@ -64,6 +62,7 @@ for(int i=0; i<n; i++){
 
 </br>
 
+---
 
 
 ## Selection Sort
@@ -88,7 +87,6 @@ for(int i=0; i<n; i++){
 2. 그 값을 맨 앞에 위치한 원소와 교체한다.
 3. 맨 처음 위치를 제외한 나머지 리스트에 대하여 반복한다.
 
-------
 
 ```cpp
 for(int i=0; i<n-1; i++){
@@ -115,6 +113,7 @@ for(int i=0; i<n-1; i++){
 
 </br>
 
+------
 
 
 ## Insertion Sort
@@ -145,7 +144,6 @@ stable한 sort이다.
 1. 2번째 index부터 시작한다.
 2. 그 앞 원소들과 비교해서, 삽입 위치를 지정하고 자료를 뒤로 밀어낸 뒤에 삽입합니다.
 
-------
 
 ```cpp
 for(int i=1; i<n; i++){
@@ -163,6 +161,8 @@ for(int i=1; i<n; i++){
 
 </br>
 
+
+------
 
 
 ## Merge Sort
@@ -249,6 +249,7 @@ void mergesort(int left, int right){
 
 </br>
 
+------
 
 
 ## Quick Sort
@@ -282,7 +283,6 @@ unstable한 sort이다.
 - 전체 list를 2개로 분할한다 ⇒ 각각의 부분 list에 대해서 다시 quick sort를 진행한다.
 - **quick sort는 merge sort와는 다르게, 리스트를 비균등하게 분할한다.**
 
-------
 
 ### 분할 정복
 
@@ -353,6 +353,7 @@ void quicksort(int left, int right) {
 
 </br>
 
+------
 
 
 ## Heap Sort
@@ -480,6 +481,8 @@ void deletion(){
 </br>
 
 
+------
+
 
 ## Topology Sort
 
@@ -506,7 +509,6 @@ void deletion(){
 
 정점과 간선을 지울 필요 없이 미리 indegree의 개수를 저장했다가, 매번 뻗어나가는 정점들의 Indegree 값을 감소시킨다. indegree가 0인 정점을 구하기 위해 매번 확인하는 대신, 목록(Queue)을 따로 저장하고 있다가 직전 제거 정점에서 연결 정점을 추가한다.
 
-------
 
 ### Sorting
 
@@ -578,6 +580,7 @@ int main(){
 
 </br>
 
+------
 
 
 ## Counting Sort
@@ -617,7 +620,7 @@ ex) arr[1…n]이 k를 넘지 않는 자연수여야 한다. 그래야 원소를
 
 - 숫자 크기에 따라 시간 복잡도가 매우 큰 영향을 받는다.
 
-------
+
 
 ```cpp
 	*#include <iostream>
@@ -652,7 +655,6 @@ ex) arr[1…n]이 k를 넘지 않는 자연수여야 한다. 그래야 원소를
 	}
 ```
 
-------
 
 </br>
 
