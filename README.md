@@ -135,7 +135,7 @@ Computer Science
 </br>
 
 ##  Algorithm
-  + [Sort](https://github.com/kimyuuum/tech-interview/blob/master/Algorithm/Bubble_sort.md)
+  + [Sort](https://github.com/kimyuuum/archive-develop/blob/master/Algorithm/Sort.md)
   
   
 </br>
