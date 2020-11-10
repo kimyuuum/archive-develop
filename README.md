@@ -67,11 +67,12 @@ Computer Science
   + [final / finally / finalize](https://github.com/kimyuuum/archive-develop/blob/master/Java/final_finally_finalize.md)
   
   
-  
-  
+</br>
+
 ##  Network
   + [우리가 Chrome을 실행시켜 주소창에 url을 입력하면?](https://github.com/kimyuuum/archive-develop/blob/master/Network/%EC%9A%B0%EB%A6%AC%EA%B0%80_Chrome%EC%9D%84_%EC%8B%A4%ED%96%89%EC%8B%9C%EC%BC%9C_%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90_url%EA%B0%92%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%98%EB%A9%B4%3F.md)
-    + [Network Basis](https://github.com/kimyuuum/archive-develop/blob/master/Network/Network_%EC%9A%A9%EC%96%B4.md)
+  
+  + [Network Basis](https://github.com/kimyuuum/archive-develop/blob/master/Network/Network_%EC%9A%A9%EC%96%B4.md)
   + [Flow / Congestion Control](https://github.com/kimyuuum/archive-develop/blob/master/Network/Flow_Congestion_Control.md)
   + [HTTP / HTTPS](https://github.com/kimyuuum/archive-develop/blob/master/Network/HTTP_HTTPS.md)
   + [HTTP METHOD](https://github.com/kimyuuum/archive-develop/blob/master/Network/Http_method.md)
@@ -83,7 +84,8 @@ Computer Science
   + [Timeout](https://github.com/kimyuuum/archive-develop/blob/master/Network/Timeout.md)
   + [대칭키 / 공개키](https://github.com/kimyuuum/archive-develop/blob/master/Network/%EB%8C%80%EC%B9%AD%ED%82%A4_%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
   
-  
+</br>
+
 ##  Data Structure
 + [Array / Linked List](https://github.com/kimyuuum/archive-develop/blob/master/DataStructure/Array_Linked_list.md)
 + [Graph](https://github.com/kimyuuum/archive-develop/blob/master/DataStructure/Graph.md)
@@ -92,6 +94,8 @@ Computer Science
 + [Stack / Queue](https://github.com/kimyuuum/archive-develop/blob/master/DataStructure/Stack_Queue.md)
 + [Tree](https://github.com/kimyuuum/archive-develop/blob/master/DataStructure/Tree.md)
   
+
+</br>
 
 ##  Database
 + [Database의 특징](https://github.com/kimyuuum/archive-develop/blob/master/Database/Database_%ED%8A%B9%EC%A7%95.md)
@@ -105,6 +109,8 @@ Computer Science
 + [무결성](https://github.com/kimyuuum/archive-develop/blob/master/Database/%EB%AC%B4%EA%B2%B0%EC%84%B1.md)
 + [정규화](https://github.com/kimyuuum/archive-develop/blob/master/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
   
+</br>
+
 ##  Web
 + [Basis](https://github.com/kimyuuum/archive-develop/blob/master/Web/Basis.md)
 + [@Bean](https://github.com/kimyuuum/archive-develop/blob/master/Web/%40Bean.md)
@@ -126,6 +132,7 @@ Computer Science
 + [보안](https://github.com/kimyuuum/archive-develop/blob/master/Web/%EB%B3%B4%EC%95%88.md)
 + [생성자 주입 / 필드 주입](https://github.com/kimyuuum/archive-develop/blob/master/Web/%EC%83%9D%EC%84%B1%EC%9E%90_%EC%A3%BC%EC%9E%85_%ED%95%84%EB%93%9C_%EC%A3%BC%EC%9E%85.md)
 
+</br>
 
 ##  Algorithm
   + [Sort](https://github.com/kimyuuum/tech-interview/blob/master/Algorithm/Bubble_sort.md)
