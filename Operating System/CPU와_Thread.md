@@ -1,6 +1,6 @@
 # CPU와 Thread
 
-----
+
 
 core는 물리적 단위이고, thread는 논리적 단위이다.
 
