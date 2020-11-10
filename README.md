@@ -2,12 +2,19 @@
 Computer Science
 
 [1. OS](#operating-system)
+
 [2. Java](#java)
+
 [3. Network](#network)
+
 [4. Data Structure](#data-structure)
+
 [5. Database](#database)
+
 [6. Web](#web)
+
 [7. Algorithm](#algorithm)
+
 
 
 </br>
